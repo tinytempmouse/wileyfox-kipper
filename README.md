@@ -1,5 +1,6 @@
-# wileyfox-kipper-cm-13.1.2
-Restore Wileyfox Storm (Kipper)
+# wileyfox-kipper
+
+## Restore Wileyfox Storm (Kipper)
 
 fastboot flash aboot emmc_appsboot.mbn <br>
 fastboot flash abootbak emmc_appsboot.mbn <br>
